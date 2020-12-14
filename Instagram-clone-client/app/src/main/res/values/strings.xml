@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Instagram</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_fragment">Profile</string>
+    <string name="user_profile_fragment">UserProfile</string>
+    <string name="open_camerat">Open camera</string>
+    <string name="selected_image">selected_image</string>
+    <string name="selected_bitmap">selected_bitmap</string>
+
+    <string name="calling_activity">calling_activity</string>
+
+    <string name="activity_number">activity_number</string>
+
+    <string name="photo">photo</string>
+    <string name="userData">userData</string>
+    <string name="view_post_fragment">View Post</string>
+    <string name="view_comments_fragment">View Comments</string>
+    <string name="main_activity">main_activity</string>
+    <string name="userid">userid</string>
+
+    <string name="firstname">firstname</string>
+    <string name="lastname">lastname</string>
+    <string name="description">description</string>
+    <string name="city">city</string>
+    <string name="age">age</string>
+
+</resources>

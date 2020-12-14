@@ -1,0 +1,370 @@
+{
+	"info": {
+		"_postman_id": "fb68bb37-8b83-4bea-ba3e-d68cd17492bd",
+		"name": "Instagram",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get comment by id",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"CommentText\" : \"Nice photo!\",\n\t\"PostId\" : 12,\n\t\"UserId\" : \"be2a17a4-f601-4297-a4f4-3f8de7140ea8\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/comment/11",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"comment",
+						"11"
+					]
+				},
+				"description": "Get comments by postId"
+			},
+			"response": []
+		},
+		{
+			"name": "add comment",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"CommentText\" : \"Nice photo!\",\n\t\"PostId\" : 12,\n\t\"UserId\" : \"be2a17a4-f601-4297-a4f4-3f8de7140ea8\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/comment",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"comment"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "add post",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"UserId\": \"be2a17a4-f601-4297-a4f4-3f8de7140ea8\",\n    \"Caption\": \"Okey\",\n    \"LikesCount\": 4,\n    \"DateCreated\": \"2020-04-04T00:00:00\",\n    \"Image\": \"img3\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/posts",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get all posts",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"UserId\": \"be2a17a4-f601-4297-a4f4-3f8de7140ea8\",\n    \"Caption\": \"Okey\",\n    \"LikesCount\": 4,\n    \"DateCreated\": \"2020-04-04T00:00:00\",\n    \"Image\": \"img3\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/posts",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get post by user id",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"UserId\": \"be2a17a4-f601-4297-a4f4-3f8de7140ea8\",\n    \"Caption\": \"Okey\",\n    \"LikesCount\": 4,\n    \"DateCreated\": \"2020-04-04T00:00:00\",\n    \"Image\": \"img3\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/posts/be2a17a4-f601-4297-a4f4-3f8de7140ea8",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"posts",
+						"be2a17a4-f601-4297-a4f4-3f8de7140ea8"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "add post",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"UserId\": \"be2a17a4-f601-4297-a4f4-3f8de7140ea8\",\n    \"Caption\": \"Okey\",\n    \"LikesCount\": 4,\n    \"DateCreated\": \"2020-04-04T00:00:00\",\n    \"Image\": \"img3\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/posts",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get all user data",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"UserId\": \"be2a17a4-f601-4297-a4f4-3f8de7140ea8\",\n    \"Caption\": \"Okey\",\n    \"LikesCount\": 4,\n    \"DateCreated\": \"2020-04-04T00:00:00\",\n    \"Image\": \"img3\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/userdata",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"userdata"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get user data by id",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"UserId\": \"be2a17a4-f601-4297-a4f4-3f8de7140ea8\",\n    \"Caption\": \"Okey\",\n    \"LikesCount\": 4,\n    \"DateCreated\": \"2020-04-04T00:00:00\",\n    \"Image\": \"img3\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/userdata/be2a17a4-f601-4297-a4f4-3f8de7140ea8",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"userdata",
+						"be2a17a4-f601-4297-a4f4-3f8de7140ea8"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "add user data",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"UserId\": \"be2a17a4-f601-4297-a4f4-3f8de7140ea8\",\n    \"Firstname\": \"Ann\",\n    \"Lastname\": \"Migay\",\n    \"Age\": 18,\n    \"Description\": \"Nice baby\",\n    \"City\": \"California\",\n    \"Followers\": 3000,\n    \"Follows\": 80\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/userdata",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"userdata"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "update user data by id",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"Firstname\": \"Ann\",\n    \"Lastname\": \"Migay\",\n    \"Age\": 18,\n    \"Description\": \"Nice baby\",\n    \"City\": \"California\",\n    \"Followers\": 3000,\n    \"Follows\": 80\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/userdata/be2a17a4-f601-4297-a4f4-3f8de7140ea8",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"userdata",
+						"be2a17a4-f601-4297-a4f4-3f8de7140ea8"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get user by id",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"Firstname\": \"Ann\",\n    \"Lastname\": \"Migay\",\n    \"Age\": 18,\n    \"Description\": \"Nice baby\",\n    \"City\": \"California\",\n    \"Followers\": 3000,\n    \"Follows\": 80\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/user/be2a17a4-f601-4297-a4f4-3f8de7140ea8",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"user",
+						"be2a17a4-f601-4297-a4f4-3f8de7140ea8"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "add user",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"Username\" : \"yan_pershay\",\n    \"Email\" : \"yanpershay@gmail.com\",\n    \"Password\" : \"relict27\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/user",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"user"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

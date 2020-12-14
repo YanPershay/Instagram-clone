@@ -1,0 +1,305 @@
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.exe
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.csprojAssemblyReference.cache
+D:\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.AssemblyInfoInputs.cache
+D:\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.AssemblyInfo.cs
+D:\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.RazorTargetAssemblyInfo.cache
+D:\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.csproj.CopyComplete
+D:\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\staticwebassets\InstagramServer.StaticWebAssets.Manifest.cache
+D:\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\staticwebassets\InstagramServer.StaticWebAssets.xml
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.deps.json
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.runtimeconfig.json
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.runtimeconfig.dev.json
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.pdb
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.csproj.CoreCompileInputs.cache
+D:\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.MvcApplicationPartsAssemblyInfo.cache
+D:\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.dll
+D:\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.pdb
+D:\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.genruntimeconfig.cache
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.exe
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.deps.json
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.runtimeconfig.json
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.runtimeconfig.dev.json
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.pdb
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.csprojAssemblyReference.cache
+E:\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.csproj.CoreCompileInputs.cache
+E:\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.MvcApplicationPartsAssemblyInfo.cache
+E:\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.AssemblyInfoInputs.cache
+E:\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.AssemblyInfo.cs
+E:\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.RazorTargetAssemblyInfo.cache
+E:\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.csproj.CopyComplete
+E:\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\staticwebassets\InstagramServer.StaticWebAssets.Manifest.cache
+E:\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\staticwebassets\InstagramServer.StaticWebAssets.xml
+E:\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.dll
+E:\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.pdb
+E:\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.genruntimeconfig.cache
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.exe
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.deps.json
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.runtimeconfig.json
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.runtimeconfig.dev.json
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.pdb
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.csprojAssemblyReference.cache
+E:\Course Work\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.csproj.CoreCompileInputs.cache
+E:\Course Work\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.MvcApplicationPartsAssemblyInfo.cache
+E:\Course Work\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.AssemblyInfoInputs.cache
+E:\Course Work\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.AssemblyInfo.cs
+E:\Course Work\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.RazorTargetAssemblyInfo.cache
+E:\Course Work\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.csproj.CopyComplete
+E:\Course Work\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\staticwebassets\InstagramServer.StaticWebAssets.Manifest.cache
+E:\Course Work\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\staticwebassets\InstagramServer.StaticWebAssets.xml
+E:\Course Work\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.dll
+E:\Course Work\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.pdb
+E:\Course Work\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.genruntimeconfig.cache
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.exe
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.deps.json
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.runtimeconfig.json
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.runtimeconfig.dev.json
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.pdb
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.csprojAssemblyReference.cache
+D:\КП\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.AssemblyInfoInputs.cache
+D:\КП\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.AssemblyInfo.cs
+D:\КП\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.csproj.CoreCompileInputs.cache
+D:\КП\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.MvcApplicationPartsAssemblyInfo.cache
+D:\КП\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\staticwebassets\InstagramServer.StaticWebAssets.Manifest.cache
+D:\КП\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\staticwebassets\InstagramServer.StaticWebAssets.xml
+D:\КП\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\InstagramServer.styles.css
+D:\КП\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.RazorTargetAssemblyInfo.cache
+D:\КП\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.csproj.CopyComplete
+D:\КП\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.dll
+D:\КП\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.pdb
+D:\КП\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.genruntimeconfig.cache
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.exe
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.deps.json
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.runtimeconfig.json
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.runtimeconfig.dev.json
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\InstagramServer.pdb
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.csprojAssemblyReference.cache
+D:\KP\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.AssemblyInfoInputs.cache
+D:\KP\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.AssemblyInfo.cs
+D:\KP\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.csproj.CoreCompileInputs.cache
+D:\KP\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.MvcApplicationPartsAssemblyInfo.cache
+D:\KP\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\staticwebassets\InstagramServer.StaticWebAssets.Manifest.cache
+D:\KP\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\staticwebassets\InstagramServer.StaticWebAssets.xml
+D:\KP\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\InstagramServer.styles.css
+D:\KP\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.RazorTargetAssemblyInfo.cache
+D:\KP\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.csproj.CopyComplete
+D:\KP\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.dll
+D:\KP\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.pdb
+D:\KP\Instagram\InstagramServer\InstagramServer\obj\Debug\netcoreapp3.1\InstagramServer.genruntimeconfig.cache
