@@ -12,7 +12,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class APIClient extends Application {
-    public static final String BASE_URL = "https://aa853a26b9f4.ngrok.io/";
+    public static final String BASE_URL = "https://3eb3b6aa230f.ngrok.io/";
 
     private static Retrofit retrofit = null;
 

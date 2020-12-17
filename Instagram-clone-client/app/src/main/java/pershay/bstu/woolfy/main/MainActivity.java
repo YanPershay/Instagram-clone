@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
         if(!isUserLoggedin()){
             Intent intent = new Intent(MainActivity.this, LoginActivity.class);
             startActivity(intent);
+            finish();
         }
 
         BottomNavigationViewEx bottomNavigationViewEx = findViewById(R.id.bottomNavViewBar);

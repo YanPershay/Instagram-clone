@@ -83,12 +83,12 @@ public class MainFragment extends Fragment {
             @Override
             public void onResponse(Call<List<Post>> call, Response<List<Post>> response) {
 
-                AlertDialog.Builder dlgAlert  = new AlertDialog.Builder(getActivity());
-                dlgAlert.setMessage("Posts loaded!");
-                dlgAlert.setTitle("Success!");
-                dlgAlert.setPositiveButton("OK", null);
-                dlgAlert.setCancelable(true);
-                dlgAlert.create().show();
+                //AlertDialog.Builder dlgAlert  = new AlertDialog.Builder(getActivity());
+                //dlgAlert.setMessage("Posts loaded!");
+                //dlgAlert.setTitle("Success!");
+                //dlgAlert.setPositiveButton("OK", null);
+                //dlgAlert.setCancelable(true);
+                //dlgAlert.create().show();
 
                 List<Post> posts = response.body();
                 try{

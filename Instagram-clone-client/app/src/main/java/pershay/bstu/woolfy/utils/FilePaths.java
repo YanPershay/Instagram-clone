@@ -1,6 +1,9 @@
 package pershay.bstu.woolfy.utils;
 
+import android.content.Context;
 import android.os.Environment;
+
+import java.io.File;
 
 public class FilePaths {
 
