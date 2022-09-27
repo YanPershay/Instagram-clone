@@ -1,153 +1,148 @@
 # Instagram clone
-Целью данного курсового проекта является разработка клиент-серверного приложения, являющегося аналогом популярного приложения Instagram и имеющего аналогичный функционал. Приложение позволяет добавлять фото в личный аккаунт, просматаривать публикации других пользователей приложения. Есть возможность редактировать информацию в профиле, удалять публикации, смотреть профили других пользователей. 
+The purpose of this course project is to develop a client-server application that is analogous to the popular Instagram application and has similar functionality. The application allows you to add photos to your personal account, view publications of other users of the application. It is possible to edit profile information, delete publications, view profiles of other users.
 
-Мобильное приложение разработано под ОС Android на языке Java. Сервер разработан на ASP.NET Core WEB Api. Для хранения пользовательских данных используется Реляционная база данных MS SQL Server.
+The mobile application was developed for Android OS in Java language. The server is developed on ASP.NET Core WEB API. Relational database MS SQL Server is used to store user data.
 
-Полный функционал приложения описан ниже:
-- Создание пароля для входа в приложение;
-- Регистрация пользователя;
-- Ввод данных пользователя;
-- Авторизация пользователя;
-- Просмотр публикаций других пользователей;
-- Просмотр профилей других пользователей;
-- Осуществление доступ к директориям с фотографиями на устройстве;
-- Получение уведомлений при успешной публикации;
-- Добавление фото с описанием на сервер;
-- Просмотр своего профиля;
-- Редактирование своего профиля;
-- Просмотр своей публикации;
-- Удаление своей публикации.
+The full functionality of the application is described below:
+- Create a password to enter the application;
+- User registration;
+- User data entry;
+- User authorization;
+- View publications of other users;
+- View profiles of other users;
+- Implementation of access to directories with photos on the device;
+- Receive notifications upon successful publication;
+- Adding a photo with a description to the server;
+- View your profile;
+- Editing your profile;
+- View your publication;
+- Deleting your post.
 
-Ниже продемонстрирован функционал приложения:
+The functionality of the application is shown below:
 
-При запуске открывается экран-превью:
+On startup, a preview screen opens:
 
 <img src="./Assets/previewScreen.png" width="200" height="400">
 <br>
 
-В случае первого запуска приложения предлагается создать пароль для входа в приложение, который будет использоваться при каждом запуске. В случае несовпадения паролей при подтверждении во время создания выводится сообщение об ошибке:
-
+In the case of the first launch of the application, it is proposed to create a password to enter the application, which will be used at each launch. If the passwords do not match, the confirmation during creation generates an error message:
 <img src="./Assets/addPin.png" width="200" height="400">
 <br>
 
-Следующая форма ввода пароля выводится при каждом входе в приложение. В случае ввода неверного пароля выводится ссответсвующее сообщение, иначе сообщается, что пароль введен верно и пользователь получает доступ к приложению:
+The following password entry form is displayed each time you log into the application. If an incorrect password is entered, a corresponding message is displayed, otherwise it is reported that the password was entered correctly and the user gets access to the application:
 
 <img src="./Assets/incorrectPasscode.png" width="200" height="400">
 <img src="./Assets/correctPasscode.png" width="200" height="400">
 <br>
 
-Открывается форма авторизации пользователя. <br>_На данном экране стоит запрет создания скриншотов во избежание случаев кражи авторизацмонных данных (на время тестирования запрет был отключен для демонстрации экрана). Также, здесь стоит обработчик нажатия кнопки "Назад" (onBackPressed), при срабатывании которого завершается сессия приложения._<br>
-В случае, если у пользователя есть аккаунт, то он вводит авторизационные данные в соответствующие поля, иначе нужно нажать на голубую надпись под кнопкой входа для перехода на страницу Регистрации :
+The user authorization form opens. <br>_Screenshots are disabled on this screen in order to avoid cases of theft of authorization data (during testing, the prohibition was disabled for screen sharing). Also, there is a handler for pressing the "Back" button (onBackPressed), which, when triggered, ends the application session._<br>
+If the user has an account, then he enters authorization data in the appropriate fields, otherwise you need to click on the blue inscription under the login button to go to the Registration page:
 
 <img src="./Assets/login.png" width="200" height="400">
 <br>
 
-_На данном экране стоит запрет создания скриншотов во избежание случаев кражи авторизацмонных данных (на время тестирования запрет был отключен для демонстрации экрана)._<br>
-Для регистрации необходимо ввести почту, придумать пароль и уникальное Имя пользователя, используемое в приложении. Сервер проверит, существует ли пользователь с таким именем и выведет соответствующее сообщение в случае совпадения имен. 
-
+_On this screen, there is a ban on creating screenshots to avoid cases of theft of authorization data (for the duration of testing, the ban was disabled for screen sharing)._<br>
+To register, you must enter your email, come up with a password and a unique Username used in the application. The server will check if a user with the same name exists and display an appropriate message if the names match.
 <img src="./Assets/addUser.png" width="200" height="400">
 <img src="./Assets/loadingAdUser.png" width="200" height="400">
 <br>
 
-Далее пользователь переходит на страницу ввода личной информации. Вводить эти данные необязательно. После отправки регистрация считается успешной:
+Next, the user goes to the page for entering personal information. Entering this information is optional. After sending, registration is considered successful:
 
 <img src="./Assets/addUserData.png" width="200" height="400">
 <img src="./Assets/successRegistr.png" width="200" height="400">
 <br>
 
-_На данном экране стоит обработчик нажатия кнопки "Назад" (onBackPressed), при срабатывании которого завершается сессия приложения._<br>
-При входе в аккаунт пользователю отображается лента публикаций. Лента обновляется с помощью перетягивания вниз. После загрузки отображаются публикации пользователей:
-
+_On this screen there is a handler for pressing the "Back" button (onBackPressed), when triggered, the application session ends._<br>
+When a user logs in, a feed of publications is displayed to the user. The feed is updated by dragging down. After loading, user posts are displayed:
 <img src="./Assets/loadingFeed.png" width="200" height="400">
 <img src="./Assets/feed.png" width="200" height="400">
 <br>
 
-_На данном экране стоит запрет создания скриншотов во избежание случаев кражи снимков в галерее пользователя (на время тестирования запрет был отключен для демонстрации экрана)._<br>
-Для добавления новой публикации необходимо нажать среднюю кнопку в нижнем меню. Откроется экран, отображающий изображения в каталогах устройства. На скриншотах отображены изображения в различных папках. Папки выбираются в выпадающем меню сверху экрана:
+_On this screen, there is a ban on creating screenshots in order to avoid cases of theft of pictures in the user's gallery (for the duration of testing, the ban was disabled for screen sharing)._<br>
+To add a new publication, press the middle button in the bottom menu. A screen will open displaying the images in the directories of the device. The screenshots show images in various folders. Folders are selected from the drop-down menu at the top of the screen:
 
 <img src="./Assets/openGallery.png" width="200" height="400">
 <img src="./Assets/galleryOtherFolder.png" width="200" height="400">
 <br>
 
-Также, имеется возможность загрузить фото непосредственно с камеры:
-
+Also, it is possible to upload photos directly from the camera:
 <img src="./Assets/camera.png" width="200" height="400">
 <br>
 
-После выбора фото предоставляется возможность добавить описание к фото. После нажатия на кнопку "Share" в правом верхнем углу данные публикации отправляются на сервер:
-
+After selecting a photo, you will be given the option to add a description to the photo. After clicking on the "Share" button in the upper right corner, the publication data is sent to the server:
 <img src="./Assets/publicationDescription.png" width="200" height="400">
 <br>
 
-А пользователю приходит уведомление в случае успешной публикации. Ниже отображена обновленная лента публикаций:
+And the user receives a notification in case of successful publication. The updated feed is shown below:
 
 <img src="./Assets/notification.png" width="200" height="400">
 <img src="./Assets/newFeed.png" width="200" height="400">
 <br>
 
-Пользователь имеет возможность посетить свой профиль. Там отображается его личная информация, публикации, их количество, а также имеет кнопка для редактирования профиля и выхода из профиля:
+The user has the opportunity to visit his profile. It displays his personal information, publications, their number, and also has a button for editing the profile and exiting the profile:
 
 <img src="./Assets/profile.png" width="200" height="400">
 <br>
 
-При нажатии на публикацию в профиле открывается экран с публикацией, позволяющий более детально рассмотреть фото, а также посмотреть описание фотографии.
+Clicking on a post in your profile opens a screen with the post, allowing you to view the photo in more detail, as well as view the description of the photo.
 
 <img src="./Assets/openedPublication.png" width="200" height="400">
 <br>
 
-На экране публикации в правом верхнем углу имеется кнопка для удаления этой публикации. При нажатии на нее появляется диалоговое окно, требующее подтвердить удаление:
+On the publish screen, there is a button in the upper right corner to delete this post. When you click on it, a dialog box appears asking you to confirm the deletion:
 
 <img src="./Assets/delete.png" width="200" height="400">
 <br>
 
-На данном скриншоте представлен профиль, не имеющий публикаций. При открытии такого профиля появляется диалоговое окно, предлагающее добавить фото:
+This screenshot shows a profile that has no publications. When you open such a profile, a dialog box appears prompting you to add a photo:
 
 <img src="./Assets/emptyProfile.png" width="200" height="400">
 <br>
 
-При переходе в окно редактирования профиля предоставляются текстовые поля с введенными нынешними данными. При изменении своих данных и сохранении данные пользователя обновятся:
+When you switch to the profile editing window, text fields with the current data entered are provided. When you change your data and save the user data will be updated:
 
 <img src="./Assets/editProfile.png" width="200" height="400">
 <br>
 
-Также, из ленты можно попасть в профили других пользователей. Для этого нужно нажать на иконку профиля в публикации пользователя и откроется окно с профилем выбранного пользователя:
+Also, from the feed you can get to the profiles of other users. To do this, click on the profile icon in the user's publication and a window with the profile of the selected user will open:
 
 <img src="./Assets/otherUserProf.png" width="200" height="400">
 <br>
 
-Пароли пользователей хранятся в базе данных в хешированном виде на базе алгоритма RFC2898:
+User passwords are stored in the database in a hashed form based on the RFC2898 algorithm:
 
 <img src="./Assets/hash.png">
 <br>
 
-В проекте применена обфускация с использованием Proguard. Ниже представлены два скриншота. На первом отображено дерево проекта без обфускации, на втором, следовательно, после применения обфускации:
+The project uses obfuscation using Proguard. Below are two screenshots. The first one shows the project tree without obfuscation, the second one, therefore, after applying obfuscation:
 <img src="./Assets/before.png">
 
-После обфускации наблюдается уменьшение объема памяти, занимаемой приложением, а также код приведен в нечитабельный вид, о чем говорит наличие папок с неоднозначными названиями:
+After obfuscation, there is a decrease in the amount of memory occupied by the application, and the code is rendered unreadable, as evidenced by the presence of folders with ambiguous names:
 
 <img src="./Assets/after.png">
 
 
-_Запрет создания скриншотов осуществляется путём размещения следующего кода в файле кода Activity:_
+_Prohibition of taking screenshots is done by placing the following code in the Activity code file:_
 
 ```getWindow().setFlags(LayoutParams.FLAG_SECURE, LayoutParams.FLAG_SECURE);```
 
-_Использование функционала управления сессией приложения заключается в следующем:_
-- _Определение, авторизован ли пользователь, и в зависимости от этого ему открывается либо экран авторизации, либо сразу новостная лента. Для этого используется SharedPreferences._
-- _Завершение сессии приложения при нажатии кнопки "Назад"_
+_Using the application session management functionality is as follows:_
+- _Determining whether the user is authorized, and depending on this, he opens either the authorization screen or the news feed immediately. SharedPreferences._ is used for this.
+- _End the application session when pressing the "Back" button_
 
-Реализованы следубщие требования:
-- Регистрация пользователей
-- Отправка изображений на сервер
-- Добавление описания к публикации
-- Авторизация при входе в приложение
-- Отправка уведомлений
+The following requirements have been implemented:
+- User registration
+- Sending images to the server
+- Adding a description to a post
+- Authorization when entering the application
+- Send notifications
 
-А также:
-- Минимальное количество экранов 8+
-- Защита приложения путем ввода пин-кода
-- Использование защиты паролей при хранении в базе данных
-- Управление сессией приложения
-- Запрет создания скриншотов
-- Обфускация
+As well as:
+- Minimum number of screens 8+
+- Protecting the application by entering a pin code
+- Use password protection when stored in the database
+- Application session management
+- Prohibition of taking screenshots
+- Obfuscation
 
